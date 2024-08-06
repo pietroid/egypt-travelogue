@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2024-08-06 13:00:28 +0000
+categories: jekyll update
+---
 ## ⏳ Hoje - 04 de Agosto: Cairo nos dá boas vindas
 
 _Vamos ouvir o que as ruas de Cairo tem para nos falar._
