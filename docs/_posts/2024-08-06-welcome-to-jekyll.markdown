@@ -1,29 +1,12 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-08-06 13:00:28 +0000
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## ⏳ Hoje - 04 de Agosto: Cairo nos dá boas vindas
 
-Jekyll requires blog post files to be named according to the following format:
+_Vamos ouvir o que as ruas de Cairo tem para nos falar._
 
-`YEAR-MONTH-DAY-title.MARKUP`
+📌 Cairo
+🏨 New Lotus Hotel
+🗺 Khan el Khalili
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hoje é dia do Egito nos dar boas vindas. E para isso, precisamos primeiro escutar o que ele tem para falar. Vamos dar uma passeada nas ruas. Também resolver umas burocracias financeiras e logísticas, dar uma zapeada em passeios e guias e principalmente ir no Khan el Khalili já ter uma noção do que tem lá e dos preços. Para então finalizarmos o dia partindo para Aswan e começando nossa intensa jornada de visitas aos templos.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+⏭ Próximo dia: Aswan e seus mistérios
+📅 Ver itinerário completo
