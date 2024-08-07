@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cairo"
-date:   2024-08-06 13:00:28 +0000
+date:   2024-08-04 13:00:28 +0000
 categories: jekyll update
 ---
 # ⏳ Hoje - 04 de Agosto
