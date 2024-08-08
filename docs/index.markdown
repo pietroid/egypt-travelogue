@@ -21,7 +21,8 @@ layout: home
 ## Hoje, 08 de Agosto
 ### _Aqui você encontra todas as informações da nossa viagem_
 
-**🕙 Hora no nosso fuso horário:** <p id="time"></p>
+**🕙 Hora no nosso fuso horário:** 
+<p id="time"></p>
 **📍 Cidade que estamos: Luxor** <br/>
 **🌡️ Temperatura:** <br/>
 **🏛️ Planejamos visitar:** Templo de Karnak e Templo de Luxor <br/>
