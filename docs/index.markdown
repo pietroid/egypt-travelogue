@@ -23,7 +23,7 @@ layout: home
         setInterval(refreshTime, 1000);
     </script>
 </p>
-<div/>
+</div>
 
 **📍 Cidade que estamos:** Luxor <br/>
 **🌡️ Temperatura:** 42 °C <br/>
