@@ -17,23 +17,22 @@ layout: home
         var timeDisplay = document.getElementById("time");
 
         function refreshTime() {
-        var dateString = new Date().toLocaleString("en-US", {timeZone: "America/Sao_Paulo"});
-        var formattedString = dateString.replace(", ", " - ");
-        timeDisplay.innerHTML = formattedString;
+        var dateString = new Date().toLocaleString("pt-BR", {timeZone: "Africa/Cairo"});
+        var justTime = dateString.split(", ")[1];
+        timeDisplay.innerHTML = justTime;
         }
 
         setInterval(refreshTime, 1000);
     </script>
 </p>
-**📍 Cidade que estamos: Luxor** <br/>
-**🌡️ Temperatura:** <br/>
-**🏛️ Planejamos visitar:** Templo de Karnak e Templo de Luxor <br/>
+**📍 Cidade que estamos:** Luxor <br/>
+**🌡️ Temperatura:** 42 °C <br/>
+**🏛️ Visitaremos:** Templo de Karnak e Templo de Luxor <br/>
 
 <br/>
 
 ## Últimos posts
 ### _O que estivemos fazendo nos últimos dias?_
-[ Cairo: o caos cósmico ]()
 
 <br/>
 
