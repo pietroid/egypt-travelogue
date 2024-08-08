@@ -38,6 +38,6 @@ layout: home
 <br/>
 
 ## Viagem
-[ 📅 Ver roteiro completo]() <br/>
+[ 📅 Ver roteiro completo](https://pietroid.github.io/egypt-travelogue/viagem/2024/08/04/roteiro.html) <br/>
 [ ⏮️ Ver próximo dia]() <br/>
 [ ⏭️ Ver dia anterior]() <br/>
