@@ -6,7 +6,7 @@ layout: home
 ---
 # Nosso travelogue do Egito
 ## Hoje, 08 de Agosto
-### _Aqui você verá as últimas informações_
+### _Aqui você verá as últimas informações da nossa viagem_
 
 <p style="display:inline; margin:0"><strong>🕙 Horário aqui:</strong></p>
 <p style="display:inline; margin:0" id="time">
