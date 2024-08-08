@@ -5,24 +5,26 @@
 layout: home
 ---
 
-<script>
-    var timeDisplay = document.getElementById("time");
 
-    function refreshTime() {
-    var dateString = new Date().toLocaleString("en-US", {timeZone: "America/Sao_Paulo"});
-    var formattedString = dateString.replace(", ", " - ");
-    timeDisplay.innerHTML = formattedString;
-    }
-
-    setInterval(refreshTime, 1000);
-</script>
 
 # Nosso travelogue do Egito
 ## Hoje, 08 de Agosto
 ### _Aqui você encontra todas as informações da nossa viagem_
 
 **🕙 Hora no nosso fuso horário:** 
-<p id="time"></p>
+<p id="time">
+    <script>
+        var timeDisplay = document.getElementById("time");
+
+        function refreshTime() {
+        var dateString = new Date().toLocaleString("en-US", {timeZone: "America/Sao_Paulo"});
+        var formattedString = dateString.replace(", ", " - ");
+        timeDisplay.innerHTML = formattedString;
+        }
+
+        setInterval(refreshTime, 1000);
+    </script>
+</p>
 **📍 Cidade que estamos: Luxor** <br/>
 **🌡️ Temperatura:** <br/>
 **🏛️ Planejamos visitar:** Templo de Karnak e Templo de Luxor <br/>
