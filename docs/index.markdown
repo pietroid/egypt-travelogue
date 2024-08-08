@@ -8,7 +8,7 @@ layout: home
 ## Hoje, 08 de Agosto
 ### _Aqui você encontra todas as informações da nossa viagem_
 
-<p style="display:inline"><strong>🕙 Horário aqui:</strong></p>
+<p style="display:inline; margin: 0"><strong>🕙 Horário aqui:</strong></p>
 <p style="display:inline; margin:0" id="time">
     <script>
         var timeDisplay = document.getElementById("time");
