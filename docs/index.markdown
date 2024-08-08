@@ -10,8 +10,8 @@ layout: home
 # Nosso travelogue do Egito
 ## Hoje, 08 de Agosto
 ### _Aqui você encontra todas as informações da nossa viagem_
-
-**🕙 Hora no nosso fuso horário:** 
+<div>
+<p><strong>🕙 Hora no nosso fuso horário:</strong></p>
 <p id="time">
     <script>
         var timeDisplay = document.getElementById("time");
@@ -25,6 +25,7 @@ layout: home
         setInterval(refreshTime, 1000);
     </script>
 </p>
+</div>
 **📍 Cidade que estamos:** Luxor <br/>
 **🌡️ Temperatura:** 42 °C <br/>
 **🏛️ Visitaremos:** Templo de Karnak e Templo de Luxor <br/>
