@@ -7,17 +7,20 @@ layout: home
 # Nosso travelogue do Egito
 ## Aqui você encontra todas as informações da nossa viagem
 
-🕙 Hora no nosso fuso horário: 
-📍 Cidade que estamos: Luxor
-🌡️ Temperatura: 
-🏛️ Planejamos visitar: Templo de Karnak e Templo de Luxor
+** 🕙 Hora no nosso fuso horário: ** <br/>
+** 📍 Cidade que estamos: Luxor ** <br/>
+** 🌡️ Temperatura: ** <br/>
+** 🏛️ Planejamos visitar: Templo de Karnak e Templo de Luxor ** <br/>
+
+<br/>
 
 ## Últimos posts
 ### _O que estivemos fazendo nos últimos dias?_
-[ Cairo ]()
+[ Cairo: o caos cósmico ]()
+
+<br/>
 
 ## Viagem
-### _
-[ 📅 Ver roteiro completo]()
-[ ⏮️ Ver próximo dia]()
-[ ⏭️ Ver dia anterior]()
+[ 📅 Ver roteiro completo]() <br/>
+[ ⏮️ Ver próximo dia]() <br/>
+[ ⏭️ Ver dia anterior]() <br/>
