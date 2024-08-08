@@ -6,9 +6,8 @@ layout: home
 ---
 # Nosso travelogue do Egito
 ## Hoje, 08 de Agosto
-### _Aqui você encontra todas as informações da nossa viagem_
 
-<p style="display:inline; margin: 0"><strong>🕙 Horário aqui:</strong></p>
+<p style="display:inline; margin:0"><strong>🕙 Horário aqui:</strong></p>
 <p style="display:inline; margin:0" id="time">
     <script>
         var timeDisplay = document.getElementById("time");
@@ -23,9 +22,12 @@ layout: home
     </script>
 </p>
 
-**📍 Cidade que estamos:** Luxor <br/>
-**🌡️ Temperatura:** 42 °C <br/>
-**🏛️ Visitaremos:** Templo de Karnak e Templo de Luxor <br/>
+**📍 Cidade que estamos:** Luxor
+
+**🌡️ Temperatura:** 42 °C
+
+**🏛️ Visitaremos:** Templo de Karnak e Templo de Luxor
+
 
 <br/>
 
