@@ -8,7 +8,6 @@ layout: home
 ## Hoje, 08 de Agosto
 ### _Aqui você encontra todas as informações da nossa viagem_
 
-<div style="margin: 0">
 <p style="display:inline"><strong>🕙 Horário aqui:</strong></p>
 <p style="display:inline; margin:0" id="time">
     <script>
@@ -23,7 +22,6 @@ layout: home
         setInterval(refreshTime, 1000);
     </script>
 </p>
-</div>
 
 **📍 Cidade que estamos:** Luxor <br/>
 **🌡️ Temperatura:** 42 °C <br/>
