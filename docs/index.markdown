@@ -8,7 +8,6 @@ layout: home
 ## Hoje, 08 de Agosto
 ### _Aqui você encontra todas as informações da nossa viagem_
 
-<br/>
 <div style="margin: 0">
 <p style="display:inline"><strong>🕙 Horário aqui:</strong></p>
 <p style="display:inline; margin:0" id="time">
@@ -25,7 +24,7 @@ layout: home
     </script>
 </p>
 <div/>
-<br/>
+
 **📍 Cidade que estamos:** Luxor <br/>
 **🌡️ Temperatura:** 42 °C <br/>
 **🏛️ Visitaremos:** Templo de Karnak e Templo de Luxor <br/>
