@@ -11,7 +11,7 @@ layout: home
 ## Hoje, 08 de Agosto
 ### _Aqui você encontra todas as informações da nossa viagem_
 <div>
-<p><strong>🕙 Hora no nosso fuso horário:</strong></p>
+<p><strong>🕙 Horário aqui:</strong></p>
 <p id="time">
     <script>
         var timeDisplay = document.getElementById("time");
