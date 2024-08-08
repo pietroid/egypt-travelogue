@@ -5,7 +5,7 @@
 layout: home
 ---
 # Nosso travelogue do Egito
-## Aqui você encontra todas as informações da nossa viagem
+### _Aqui você encontra todas as informações da nossa viagem_
 
 ** 🕙 Hora no nosso fuso horário: ** <br/>
 ** 📍 Cidade que estamos: Luxor ** <br/>
