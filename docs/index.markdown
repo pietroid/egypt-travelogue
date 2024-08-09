@@ -8,10 +8,10 @@ layout: home
 ## Hoje, 09 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
 
-<div class="body-content"><strong>🕙 Horário aqui:</strong></div>
-<div class="body-content">
+<div class="timestamp"><strong>🕙 Horário aqui:</strong></div>
+<div class="timestamp">
     <script>
-        var timeDisplay = document.getElementById("time");
+        var timeDisplay = document.getElementById("timestamp");
 
         function refreshTime() {
         var dateString = new Date().toLocaleString("pt-BR", {timeZone: "Africa/Cairo"});
