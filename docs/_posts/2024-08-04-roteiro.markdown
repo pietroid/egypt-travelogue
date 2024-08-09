@@ -7,9 +7,9 @@ categories: viagem
 # Roteiro completo 📅
 ## Sábado, 03 de Agosto
 
-{{relative_url}}
-{{base_url}}
-{{site_url}}
+[link2]({{relative_url}})
+[link2]({{base_url}})
+[link3]({{site_url}})
 
 📍 São Paulo
 
