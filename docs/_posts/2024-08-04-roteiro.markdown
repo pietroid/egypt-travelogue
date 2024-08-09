@@ -7,6 +7,10 @@ categories: viagem
 # Roteiro completo 📅
 ## Sábado, 03 de Agosto
 
+{{relative_url}}
+{{base_url}}
+{{site_url}}
+
 📍 São Paulo
 
 ✈️ Vôo para Istambul e depois Cairo
