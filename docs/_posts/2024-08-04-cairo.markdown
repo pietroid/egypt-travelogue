@@ -9,11 +9,11 @@ categories: dia
 
 ### _Vamos ouvir o que as ruas de Cairo tem para nos falar._
 
-[📍 Cairo]({{ site.baseurl }}/dia/2024/08/04/cidade-do-cairo.html)
+[📍 Cairo](https://pietroid.github.io/egypt-travelogue/dia/2024/08/04/cidade-do-cairo.html)
 
 [🏨 New Lotus Hotel](https://maps.app.goo.gl/g6zr85YrCx9FZPEF9)
 
-[🗺 Khan el Khalili]({{ site.baseurl }}/locais/2024/08/04/khan-el-khalili.html)
+[🗺 Khan el Khalili](https://pietroid.github.io/egypt-travelogue/locais/2024/08/04/khan-el-khalili.html)
 
 Hoje é dia do Egito nos dar boas vindas. E para isso, precisamos primeiro escutar o que ele tem para falar. Vamos dar uma passeada nas ruas. Também resolver umas burocracias financeiras e logísticas, dar uma zapeada em passeios e guias e principalmente ir no Khan el Khalili já ter uma noção do que tem lá e dos preços. Para então finalizarmos o dia partindo para Aswan e começando nossa intensa jornada de visitas aos templos.
 

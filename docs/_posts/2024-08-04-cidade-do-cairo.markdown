@@ -7,7 +7,7 @@ categories: dia
 # Cidade do Cairo
 ### _O coração do Egito_
 
-![Image]({{ site.baseurl }}/images/cairo_location.png)
+![Image](https://pietroid.github.io/egypt-travelogue/images/cairo_location.png)
 
 Cairo é de uma magnitude monstruosa. Assim como toda capital metropolitana, tem muita gente em um espaço não muito ideal. Atualmente vivem 21 milhões de pessoas na região metropolitana, algo similar ao que a gente vê em São Paulo. 
 

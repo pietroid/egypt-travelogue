@@ -7,10 +7,6 @@ categories: viagem
 # Roteiro completo 📅
 ## Sábado, 03 de Agosto
 
-[link2]({{relative_url}})
-[link2]({{base_url}})
-[link3]({{site_url}})
-
 📍 São Paulo
 
 ✈️ Vôo para Istambul e depois Cairo
@@ -23,7 +19,7 @@ Saída de São Paulo e vôo para Istambul e Cairo. Atravessaremos 6 fusos horár
 
 ## Domingo, 04 de Agosto
 
-[📍 Cairo]({{ site.baseurl }}/dia/2024/08/04/cidade-do-cairo.html)
+[📍 Cairo](https://pietroid.github.io/egypt-travelogue/dia/2024/08/04/cidade-do-cairo.html)
 
 [🏨 New Lotus Hotel](https://maps.app.goo.gl/g6zr85YrCx9FZPEF9)
 
@@ -31,7 +27,7 @@ Saída de São Paulo e vôo para Istambul e Cairo. Atravessaremos 6 fusos horár
 
 <br/>
 
-Chegada em Cairo. Vamos descansar, conhecer a cidade, e nos preparamos para partir para Aswan. [Acesse aqui o dia completo.]({{ site.baseurl }}/dia/2024/08/04/cairo.html)
+Chegada em Cairo. Vamos descansar, conhecer a cidade, e nos preparamos para partir para Aswan. [Acesse aqui o dia completo.](https://pietroid.github.io/egypt-travelogue/dia/2024/08/04/cairo.html)
 
 <br/>
 

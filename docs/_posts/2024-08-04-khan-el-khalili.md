@@ -10,12 +10,12 @@ categories: locais
 
 Bazar já antigo, da época dos califados, Khan el Khalili preserva uma estrutura tipicamente do que se espera de um comércio árabe. É uma experiência multisensorial. Para todo lado, gente gritando, negociando, misturado com cores intensas de jóias e objetos junto com cheiros de incensos e especiarias. 
 
-![Image]({{ site.baseurl }}/images/khan_el_khalili.png)
+![Image](https://pietroid.github.io/egypt-travelogue/images/khan_el_khalili.png)
 _Como vendem o Khan el Khalili_
 
 Por outro lado, não é nada menos nada mais do que uma feira que expõe as estranhas dinâmicas do mercado turístico, onde eles vendem lembrancinhas de resina duvidosas feitas provavelmente na China por preços abusivos, para turistas ricos que pouco entendem da história local e só vem para tirar fotos para postar no facebook. 
 
-![Image]({{ site.baseurl }}/images/khan_el_khalili_old.jpg)
+![Image](https://pietroid.github.io/egypt-travelogue/images/khan_el_khalili_old.jpg)
 _O que também é o Khan el Khalili._
 
 Mas a gente acha umas jóias. Acho que vou falar em outro texto sobre o nosso achado dessa lojinha, com dois velhões vendendo velharias. Parecia as feirinhas de antiguidades de São Paulo. 
