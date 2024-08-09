@@ -7,32 +7,21 @@ layout: home
 # Nosso travelogue do Egito
 ## Hoje, 09 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
-<style>
-    .timestamp {
-        color: #00000098;
-        font-size: 0.7rem;
-        font-family: 'Literata', serif;
-        margin: 0rem 0;
-    }
-</style>
-<p class="timestamp"><strong>🕙 Horário aqui:</strong></p>
-<p class="timestamp">
-    <script>
-        var timeDisplay = document.getElementById("timestamp");
-
-        function refreshTime() {
-        var dateString = new Date().toLocaleString("pt-BR", {timeZone: "Africa/Cairo"});
-        var justTime = dateString.split(", ")[1];
-        timeDisplay.innerHTML = justTime;
-        }
-
-        setInterval(refreshTime, 1000);
-    </script>
-</p>
 
 **📍 Cidade que estamos:** Luxor<br/>
 **🌡️ Temperatura:** 43 °C<br/>
 **🏛️ Visitaremos:** Templo de Hathor em Dendera e de Osíris em Abydos
+<p id="time">
+    <script>
+        var timeDisplay = document.getElementById("time");
+        function refreshTime() {
+            var dateString = new Date().toLocaleString("pt-BR", {timeZone: "Africa/Cairo"});
+            var justTime = dateString.split(", ")[1];
+            timeDisplay.innerHTML = "<p><strong>🕙 Horário aqui:</strong> "+justTime;
+        }
+        setInterval(refreshTime, 1000);
+    </script>
+</p>
 
 ## Últimos posts
 ### _O que estivemos fazendo nos últimos dias?_
