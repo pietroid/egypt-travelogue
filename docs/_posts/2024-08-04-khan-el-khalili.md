@@ -18,4 +18,4 @@ Por outro lado, não é nada menos nada mais do que uma feira que expõe as estr
 ![Image](https://pietroid.github.io/egypt-travelogue/assets/images/khan_el_khalili_old.jpg)
 _O que também é o Khan el Khalili._
 
-Mas a gente acha umas jóias. Acho que vou falar em outro texto sobre o nosso achado dessa lojinha, com dois velhões vendendo velharias. Parecia as feirinhas de antiguidades de São Paulo. 
+Mas a gente acha umas jóias. Vou falar em outro texto sobre o nosso achado dessa lojinha, com dois velhões vendendo velharias. Parecia as feirinhas de antiguidades de São Paulo. 
