@@ -8,7 +8,7 @@ categories: locais
 ## A 25 de março do Cairo
 ### _Mais uma forma de economia criativa onde te cobram 10x o preço de algo por você ser turista_
 
-Bazar já antigo, da época dos califados, Khan el Khalili preserva uma estrutura tipicamente do que se espera de um comércio árabe. É uma experiência multisensorial. Para todo lado, gente gritando, negociando, misturado com cores intensas de jóias e objetos junto com cheiros de incensos e especiarias. 
+Bazar já antigo, da época dos califados, Khan el Khalili preserva uma estrutura típica do que se espera de um comércio árabe. É uma experiência multisensorial. Para todo lado, gente gritando, negociando, misturado com cores intensas de jóias e objetos junto com cheiros de incensos e especiarias. 
 
 ![Image](https://pietroid.github.io/egypt-travelogue/assets/images/khan_el_khalili.png)
 _Como vendem o Khan el Khalili_
