@@ -7,9 +7,16 @@ layout: home
 # Nosso travelogue do Egito
 ## Hoje, 09 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
-
-<div class="timestamp"><strong>🕙 Horário aqui:</strong></div>
-<div class="timestamp">
+<style>
+    .timestamp {
+        color: #00000098;
+        font-size: 0.7rem;
+        font-family: 'Literata', serif;
+        margin: 0rem 0;
+    }
+</style>
+<p class="timestamp"><strong>🕙 Horário aqui:</strong></p>
+<p class="timestamp">
     <script>
         var timeDisplay = document.getElementById("timestamp");
 
@@ -21,7 +28,7 @@ layout: home
 
         setInterval(refreshTime, 1000);
     </script>
-</div>
+</p>
 
 **📍 Cidade que estamos:** Luxor<br/>
 **🌡️ Temperatura:** 43 °C<br/>
