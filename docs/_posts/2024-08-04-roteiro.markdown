@@ -19,15 +19,15 @@ Saída de São Paulo e vôo para Istambul e Cairo. Atravessaremos 6 fusos horár
 
 ## Domingo, 04 de Agosto
 
-📍 Cairo
+[📍 Cairo]({{ site.baseurl }}/dia/2024/08/04/cidade-do-cairo.html)
 
-🏨 New lotus hotel
+[🏨 New Lotus Hotel](https://maps.app.goo.gl/g6zr85YrCx9FZPEF9)
 
 🏛️ Conhecendo Cairo, Khan el Khalili
 
 <br/>
 
-Chegada em Cairo. Vamos descansar, conhecer a cidade, e nos preparamos para partir para Aswan.
+Chegada em Cairo. Vamos descansar, conhecer a cidade, e nos preparamos para partir para Aswan. [Acesse aqui o dia completo.]({{ site.baseurl }}/dia/2024/08/04/cairo.html)
 
 <br/>
 
