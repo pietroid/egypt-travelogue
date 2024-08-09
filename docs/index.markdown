@@ -8,8 +8,8 @@ layout: home
 ## Hoje, 09 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
 
-<p style="display:inline; margin:0"><strong>🕙 Horário aqui:</strong></p>
-<p style="display:inline; margin:0" id="time">
+<div style="display:inline; margin:0; color: #000000;font-size: 0.7rem;font-family: 'Literata', serif;text-align: justify;"><strong>🕙 Horário aqui:</strong></div>
+<div style="display:inline; margin:0; color: #000000;font-size: 0.7rem;font-family: 'Literata', serif;text-align: justify;" id="time">
     <script>
         var timeDisplay = document.getElementById("time");
 
@@ -21,14 +21,13 @@ layout: home
 
         setInterval(refreshTime, 1000);
     </script>
-</p>
+</div>
 
 **📍 Cidade que estamos:** Luxor
 
 **🌡️ Temperatura:** 43 °C
 
 **🏛️ Visitaremos:** Templo de Hathor em Dendera e de Osíris em Abydos
-
 
 <br/>
 
