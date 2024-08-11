@@ -5,12 +5,12 @@
 layout: home
 ---
 # Nosso travelogue do Egito
-## Hoje, 09 de Agosto
+## Hoje, 11 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
 
 **📍 Cidade que estamos:** Luxor<br/>
-**🌡️ Temperatura:** 43 °C<br/>
-**🏛️ Visitaremos:** Templo de Hathor em Dendera e de Osíris em Abydos
+**🌡️ Temperatura:** 32 °C<br/>
+**🏛️ Visitaremos:** Dahab
 <p id="time">
     <script>
         var timeDisplay = document.getElementById("time");
