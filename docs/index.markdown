@@ -5,12 +5,12 @@
 layout: home
 ---
 # Nosso travelogue do Egito
-## Hoje, 11 de Agosto
+## Hoje, 13 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
 
-**📍 Cidade que estamos:** Luxor<br/>
-**🌡️ Temperatura:** 32 °C<br/>
-**🏛️ Visitaremos:** Dahab
+**📍 Cidade que estamos:** Dahab<br/>
+**🌡️ Temperatura:** 34 °C<br/>
+**🏛️ Visitaremos:** Loja de perfumes e Mergulho
 <p id="time">
     <script>
         var timeDisplay = document.getElementById("time");
