@@ -29,4 +29,4 @@ E por que eu to falando tudo isso? Calma, vamos continuar na história de Isis. 
 
 Agora preste atenção: a localização do templo de Ísis é onde estava enterrado o coração de Osiris, segundo a lenda. 
 
-Coração! Que lindo não? E vou te dizer: coração! Assim como várias coisas que aconteceram nesse dia, vieram do coração. Vou te contar aqui.
+Coração! Que lindo não? E vou te dizer: coração! Assim como várias coisas que aconteceram nesse dia, vieram do coração. Vou te contar [aqui.](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-2.html)
