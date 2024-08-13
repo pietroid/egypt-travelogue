@@ -15,7 +15,7 @@ Vamos visitar o complexo do templo de Filas, mas o que importa mesmo é o que te
 
 Ísis: ela é uma deusa egípcia que representa diversas coisas (pra variar - mitologia egípcia é uma salada). Seria uma grande mãe, mas também uma curandeira, capaz de curar doenças, receitar remédios para a alma e até mesmo ressuscitar mortos. 
 
-![Isis](https://pietroid.github.io/egypt-travelogue/assets/images/aswan_location.png)
+![Isis](https://pietroid.github.io/egypt-travelogue/assets/images/isis.png)
 _Ísis em forma de pássaro_
 
 Muitos iam ao templo inclusive para pedir curas. Todos os templos egípcios eram não apenas um lugar de adoração mas um lugar de peregrinação e sacrifício para pessoas que necessitavam de alguma coisa.
