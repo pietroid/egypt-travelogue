@@ -25,8 +25,8 @@ layout: home
 ## Últimos posts
 ### _O que estivemos fazendo nos últimos dias?_
 
-[Coração - parte 1 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-1.html)
-[Coração - parte 2 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-2.html)
+[Coração - parte 1 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-1.html)<br/>
+[Coração - parte 2 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-2.html)<br/>
 [Khan el Khalili - A 25 de março do Cairo](https://pietroid.github.io/egypt-travelogue/locais/2024/08/04/khan-el-khalili.html)
 
 <br/>
