@@ -5,12 +5,11 @@
 layout: home
 ---
 # Nosso travelogue do Egito
-## Hoje, 13 de Agosto
+## Hoje, 15 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
 
-**📍 Cidade que estamos:** Dahab<br/>
+**📍 Cidade que estamos:** Cairo<br/>
 **🌡️ Temperatura:** 34 °C<br/>
-**🏛️ Visitaremos:** Loja de perfumes e Mergulho
 <p id="time">
     <script>
         var timeDisplay = document.getElementById("time");
@@ -25,6 +24,10 @@ layout: home
 
 ## Últimos posts
 ### _O que estivemos fazendo nos últimos dias?_
+
+[Coração - parte 1 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-1.html)
+[Coração - parte 2 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-2.html)
+[Khan el Khalili - A 25 de março do Cairo](https://pietroid.github.io/egypt-travelogue/locais/2024/08/04/khan-el-khalili.html)
 
 <br/>
 
