@@ -5,35 +5,29 @@
 layout: home
 ---
 # Nosso travelogue do Egito
-## Hoje, 08 de Agosto
+## Hoje, 15 de Agosto
 ### _Aqui você verá as últimas informações da nossa viagem_
 
-<p style="display:inline; margin:0"><strong>🕙 Horário aqui:</strong></p>
-<p style="display:inline; margin:0" id="time">
+**📍 Cidade que estamos:** Cairo<br/>
+**🌡️ Temperatura:** 34 °C<br/>
+<p id="time">
     <script>
         var timeDisplay = document.getElementById("time");
-
         function refreshTime() {
-        var dateString = new Date().toLocaleString("pt-BR", {timeZone: "Africa/Cairo"});
-        var justTime = dateString.split(", ")[1];
-        timeDisplay.innerHTML = justTime;
+            var dateString = new Date().toLocaleString("pt-BR", {timeZone: "Africa/Cairo"});
+            var justTime = dateString.split(", ")[1];
+            timeDisplay.innerHTML = "<p><strong>🕙 Horário aqui:</strong> "+justTime;
         }
-
         setInterval(refreshTime, 1000);
     </script>
 </p>
 
-**📍 Cidade que estamos:** Luxor
-
-**🌡️ Temperatura:** 42 °C
-
-**🏛️ Visitaremos:** Templo de Karnak e Templo de Luxor
-
-
-<br/>
-
 ## Últimos posts
 ### _O que estivemos fazendo nos últimos dias?_
+
+[Coração - parte 1 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-1.html)<br/>
+[Coração - parte 2 (Aswan)](https://pietroid.github.io/egypt-travelogue/contos/2024/08/05/coracao-parte-2.html)<br/>
+[Khan el Khalili - A 25 de março do Cairo](https://pietroid.github.io/egypt-travelogue/locais/2024/08/04/khan-el-khalili.html)
 
 <br/>
 
